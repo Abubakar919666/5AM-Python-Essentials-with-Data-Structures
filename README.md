@@ -29,8 +29,8 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
                 </a> 
             </td>
           <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt="Hasnain Ahmed"/>
+                <a href="https://github.com/HasnainAhmad67">
+                    <img src="https://avatars.githubusercontent.com/u/206344887?v=4" width="100px;" alt="Hasnain Ahmed"/>
                     <br />
                     <sub><b>Hasnain Ahmed</b></sub>
                 </a> 
