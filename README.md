@@ -36,8 +36,8 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
                 </a> 
             </td>
             <td align="center">
-                <a href="https://media.licdn.com/dms/image/v2/D4E03AQEwo2k6tdMVcw/profile-displayphoto-crop_800_800/B4EZg849V8GcAI-/0/1753368221793?e=1759968000&v=beta&t=UeFs3kXse2-_BxUuSJfNQ23sc2SxeTsWl8RnUKsNcuw">
-                    <img src="" width="100px;" alt="Ahmad Raza Jajja"/>
+                <a href="https://github.com/ahmad-raza-jajja">
+                    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEwo2k6tdMVcw/profile-displayphoto-crop_800_800/B4EZg849V8GcAI-/0/1753368221793?e=1759968000&v=beta&t=UeFs3kXse2-_BxUuSJfNQ23sc2SxeTsWl8RnUKsNcuw" width="100px;" alt="Ahmad Raza Jajja"/>
                     <br />
                     <sub><b>~Ahmad Raza Jajja</b></sub>
                 </a> 
