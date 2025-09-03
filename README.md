@@ -14,4 +14,6 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 **Extra Resources** - Helpful links, articles, and documentation.
 
-**Join Our Community:** - Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
+**Join Our Community:** - Join our community on [iCodeGuru](https://icode.guru/join/) to connect with fellow learners and volunteer mentors.
+
+## Trainers & Moderators
