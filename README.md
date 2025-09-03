@@ -30,20 +30,20 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
             </td>
           <td align="center">
                 <a href="">
-                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="Hasnain Ahmed"/>
+                    <img src="" width="100px;" alt="Hasnain Ahmed"/>
                     <br />
                     <sub><b>Hasnain Ahmed</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/shaistaDev7">
-                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt=""/>
+                <a href="https://media.licdn.com/dms/image/v2/D4E03AQEwo2k6tdMVcw/profile-displayphoto-crop_800_800/B4EZg849V8GcAI-/0/1753368221793?e=1759968000&v=beta&t=UeFs3kXse2-_BxUuSJfNQ23sc2SxeTsWl8RnUKsNcuw">
+                    <img src="" width="100px;" alt="Ahmad Raza Jajja"/>
                     <br />
-                    <sub><b></b></sub>
+                    <sub><b>~Ahmad Raza Jajja</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Haris-Mughal">
+                <a href="https://github.com/abubakar2029">
                     <img src="https://avatars.githubusercontent.com/u/128064938?v=4" width="100px;" alt="Muhammad Abu bakar"/>
                     <br />
                     <sub><b>M Abu Bakar</b></sub>
