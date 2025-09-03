@@ -72,37 +72,37 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
      </tr>  
     <tr>
         <td align="center"><b>Day 01</b></br>01-Sep-2025</td>
-        <td align="center"><a href="">Introduction to Python</br></td>
-        <td align="center" ><a href="https://drive.google.com/file/d/1kWPpQ_brVAlMaRzp2H_iX9bFg773FCJS/view?usp=sharing">Slides</td>
-            <td align="center">Introduction to Python <br/> History of python<br/>Features & Applications of python<br/>IDE for Python</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/19Z7s7MLHZ/">Introduction to Python</br></td>
+        <td align="center" ><a href="">Slides</td>
+        <td align="center">Introduction to Python <br/>basic syntax<br/> variables<br/>data types</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 02</b></br>02-Sep-2025</td>
-        <td align="center"><a href="">Variables</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/1rvfeJk2amjWDewSQkq2WrpqXLhyxTWci#scrollTo=5n368lC2ltWU">Practice File</td>
-            <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1D9RbtG2Ve/">Operators</td>
+        <td align="center"><a href="">Practice File</td>
+        <td align="center">Conditions<br/>Loops<br/>Indentation<br/>Operators</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 03</b></br>03-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/share/v/1BFbmg8CrW/">Data Types</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=Uip_PSoY6_sV">Practice File</td>
-            <td align="center">Comments<br/>Data Type<br/> Overview Function<br/>Question Answers previous sessions ( day1 + day 2 )</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1BFbmg8CrW/">Question/Answers</td>
+        <td align="center"><a href="">Practice File</td>
+        <td align="center">Comments<br/>Overview Function<br/>Question Answers previous sessions ( day1 + day2 )</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 04</b></br>04-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""></td>
-            <td align="center"></td>
+        <td align="center"></td>
         <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 05</b></br>05-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""></td>
-            <td align="center"></td>
+        <td align="center"></td>
         <td align="center"><a href=""></td>
     </tr>
 </tbody>
