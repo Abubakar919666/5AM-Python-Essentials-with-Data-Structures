@@ -1,10 +1,12 @@
 # Python Essentials with Data Structures
 
-## Welcome! 👋 
+### Welcome! 👋 
 
 This course is designed for **absolute beginners** and focuses on learning Python from scratch with data structure , mastering the fundamentals, and building strong problem-solving skills.  
 
-## **You'll Find Here:**
+-------------------------------------------------------------------------------------------------------------------------
+
+### **You'll Find Here:**
 
 **Tutorials:** - Links to video tutorials covering various Python topics and concepts.
 
@@ -16,14 +18,17 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 **Join Our Community:** - Join our community on [iCodeGuru](https://icode.guru/join/) to connect with fellow learners and volunteer mentors.
 
-## Tech & Tools
+-------------------------------------------------------------------------------------------------------------------------
+
+### Tech & Tools
 
 - Python 3.x  
 - Jupyter Notebook / 💻 VS Code /  Google Collab  
 - Git & GitHub  
 
+-------------------------------------------------------------------------------------------------------------------------
 
-## Trainers & Moderators
+### Trainers & Moderators
 
 <table >
     <tbody>
@@ -60,7 +65,8 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 </tbody>
 <table>
 
-## Week 01
+-------------------------------------------------------------------------------------------------------------------------
+### Week 01
 <table>
     <tbody>
      <tr>
@@ -107,3 +113,25 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
 </tbody>
 <table>
+-------------------------------------------------------------------------------------------------------------------------
+
+### 🙌 Contributors
+
+The Moderators and trainers of our this program maintain this repository.  
+Special thanks to all students who contributed code, or asked insightful questions during sessions.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+### 📬 Feedback
+
+Found a mistake? Want to contribute? Feel free to open a [Pull Request](https://github.com/Abubakar919666/5AM-Python-Essentials-with-Data-Structures/pulls) or submit an [Issue](https://github.com/Abubakar919666/5AM-Python-Essentials-with-Data-Structures/issues).
+
+-------------------------------------------------------------------------------------------------------------------------
+
+### ⭐ Star This Repo
+
+If you find this helpful, consider starring ⭐ the repository and sharing it with your peers.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# **Happy Coding! 🚀**
