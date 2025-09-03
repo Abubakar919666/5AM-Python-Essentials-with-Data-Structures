@@ -113,6 +113,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
 </tbody>
 <table>
+
 -------------------------------------------------------------------------------------------------------------------------
 
 ### 🙌 Contributors
