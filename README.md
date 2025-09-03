@@ -23,7 +23,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <tr>
             <td align="center">
                 <a href="https://github.com/Abubakar919666">
-                    <img src="https://avatars.githubusercontent.com/u/115037887?s=400&u=b9b15d0dea0aa005daa3cc05ac08213412c2f055&v=4" width="100px;" alt="M_Abubakar"/>
+                    <img src="https://avatars.githubusercontent.com/u/115037887?s=96&v=4" width="100px;" alt="M_Abubakar"/>
                     <br />
                     <sub><b>M Abubakar</b></sub>
                 </a> 
