@@ -157,7 +157,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 05</b></br>05-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1Ycr7EA1Pp/"> Core Data Structures</td>
-        <td align="center"><a href="">Practice File</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1w2IxsYi4xjccU1I0zGv16udxxOkgHnjy?usp=sharing">Practice File</td>
         <td align="center">Data Structure<br/>Lists<br/>tuples<br/>slicing<br/>indexing<br/>dictionaries<br/>sets</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
