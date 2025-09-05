@@ -107,7 +107,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 05</b></br>05-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1Ycr7EA1Pp/"> Core Data Structures</td>
-        <td align="center"><a href="">Practice File</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1w2IxsYi4xjccU1I0zGv16udxxOkgHnjy?usp=sharing">Practice File</td>
         <td align="center">Data Structure<br/>Lists<br/>tuples<br/>slicing<br/>indexing<br/>dictionaries<br/>sets</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
@@ -127,11 +127,11 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
     <tr>
-        <td align="center"><b>Day 01</b></br>01-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/share/v/19Z7s7MLHZ/">Introduction to Python</br></td>
-        <td align="center" ><a href="https://colab.research.google.com/drive/10bMV2JHOcGhPGt72L5vET5bSwlv2fNlV?usp=sharing">Practice File</td>
-        <td align="center">Introduction to Python <br/>basic syntax<br/> variables<br/>data types</td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+        <td align="center"><b>Day 06</b></br>06-Sep-2025</td>
+        <td align="center"><a href=""></br></td>
+        <td align="center" ><a href=""></td>
+        <td align="center"><br/><br/><br/></td>
+        <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 02</b></br>02-Sep-2025</td>
