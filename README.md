@@ -115,7 +115,56 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 <table>
 
 -------------------------------------------------------------------------------------------------------------------------
+### Week 02
 
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+    <tr>
+        <td align="center"><b>Day 01</b></br>01-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/19Z7s7MLHZ/">Introduction to Python</br></td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/10bMV2JHOcGhPGt72L5vET5bSwlv2fNlV?usp=sharing">Practice File</td>
+        <td align="center">Introduction to Python <br/>basic syntax<br/> variables<br/>data types</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 02</b></br>02-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1D9RbtG2Ve/">Operators</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1p31LVYT4ULfzWIITnG6wmvd9fW5QnWlE?usp=sharing ">Practice File</td>
+        <td align="center">Conditions<br/>Loops<br/>Indentation<br/>Operators</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 03</b></br>03-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1BFbmg8CrW/">Question/Answers</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/12jkPawY-iblWMPPB9J6gT4srZKBeU8Qh?usp=sharing ">Practice File</td>
+        <td align="center">Comments<br/>Overview Function<br/>Question Answers previous sessions ( day1 + day2 )</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 04</b></br>04-Sep-2025</td>
+        <td align="center"><a href="https://fb.watch/BV1NvjZJTX/">Functions</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/12jkPawY-iblWMPPB9J6gT4srZKBeU8Qh?usp=sharing ">Practice File</td>
+        <td align="center">Use Functions<br/>Introduction to Data Structures<br/>List</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 05</b></br>05-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1Ycr7EA1Pp/"> Core Data Structures</td>
+        <td align="center"><a href="">Practice File</td>
+        <td align="center">Data Structure<br/>Lists<br/>tuples<br/>slicing<br/>indexing<br/>dictionaries<br/>sets</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+</tbody>
+<table>
+
+-------------------------------------------------------------------------------------------------------------------------
 ### 🙌 Contributors
 
 The Moderators and trainers of our this program maintain this repository.  
