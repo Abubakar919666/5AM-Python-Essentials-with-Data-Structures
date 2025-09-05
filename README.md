@@ -141,18 +141,18 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href=""></td>
     </tr>
     <tr>
-        <td align="center"><b>Day 03</b></br>03-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/share/v/1BFbmg8CrW/">Question/Answers</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/12jkPawY-iblWMPPB9J6gT4srZKBeU8Qh?usp=sharing ">Practice File</td>
-        <td align="center">Comments<br/>Overview Function<br/>Question Answers previous sessions ( day1 + day2 )</td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+        <td align="center"><b>Day 08</b></br>08-Sep-2025</td>
+        <td align="center"><a href=""></td>
+        <td align="center"><a href=""></td>
+        <td align="center"><br/><br/></td>
+        <td align="center"><a href=""></td>
     </tr>
     <tr>
-        <td align="center"><b>Day 04</b></br>04-Sep-2025</td>
-        <td align="center"><a href="https://fb.watch/BV1NvjZJTX/">Functions</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/12jkPawY-iblWMPPB9J6gT4srZKBeU8Qh?usp=sharing ">Practice File</td>
-        <td align="center">Use Functions<br/>Introduction to Data Structures<br/>List</td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+        <td align="center"><b>Day 09</b></br>09-Sep-2025</td>
+        <td align="center"><a href=""></td>
+        <td align="center"><a href=""></td>
+        <td align="center"><br/><br/></td>
+        <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 05</b></br>05-Sep-2025</td>
