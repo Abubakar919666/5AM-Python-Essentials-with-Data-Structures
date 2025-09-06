@@ -156,6 +156,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
     <tr>
         <td align="center"><b>Day 10</b></br>12-Sep-2025</td>
+        <td align="center"><a href=""></td>
         
     </tr>
 </tbody>
