@@ -159,7 +159,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href=""></td>
         <td align="center"><a href=""></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
+        
     </tr>
 </tbody>
 <table>
