@@ -124,14 +124,10 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
       <th>Video Links (Facebook)</br></th>
       <th>Materials</th>
      <th>Topics</th>
-   <td align="center"><b>Trainer Name</b></td>
+        <td align="center"><b>Trainer Name</b></td>
      </tr>  
     <tr>
-        <td align="center"><b>Day 06</b></br>08-Sep-2025</td>
-        <td align="center"><a href=""></br></td>
-        <td align="center" ><a href=""></td>
-        <td align="center"><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
+    <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
         <td align="center"><b>Day 07</b></br>09-Sep-2025</td>
