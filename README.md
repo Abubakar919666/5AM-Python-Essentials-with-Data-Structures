@@ -131,14 +131,14 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
     <tr>
         <td align="center"><b>Day 07</b></br>09-Sep-2025</td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.facebook.com/share/v/17JBCiHJ9b/"></td>
         <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file</td>
         <td align="center">list<br/>array<br/>search insert<br/></td>
         <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.facebook.com/watch?v=1230215062206671">Algorithm Analysis</td>
         <td align="center"><a href=""></td>
         <td align="center"><br/><br/></td>
         <td align="center"><a href=""></td>
