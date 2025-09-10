@@ -132,8 +132,8 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 07</b></br>09-Sep-2025</td>
         <td align="center"><a href=""></td>
-        <td align="center"><a href=""></td>
-        <td align="center"><br/><br/><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file</td>
+        <td align="center">list<br/>array<br/>search insert<br/></td>
         <td align="center"><a href=""></td>
     </tr>
     <tr>
