@@ -133,7 +133,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 07</b></br>09-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/17JBCiHJ9b/"></td>
         <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file<br/>
-        <a href="https://leetcode.com/problems/search-insert-position/">Problem 35</a>
+        <a href="https://leetcode.com/problems/search-insert-position/">Problem 35 <br/>Search insert</a>
         </td>
         <td align="center">list<br/>array<br/>search insert<br/></td>
         <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/">M Abu Bakar</td>
