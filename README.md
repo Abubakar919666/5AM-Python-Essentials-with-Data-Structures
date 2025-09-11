@@ -140,7 +140,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/watch?v=1230215062206671">Algorithm Analysis</td>
         <td align="center"><a href=""></td>
-        <td align="center">Algorithm<br/>Time Complexity<br/></td>
+        <td align="center">Algorithm<br/>Time Complexity<br/>Big-O Notation<br/>Types of Complexitties<br/>Space Complexity<br/>Conclusion</td>
         <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/">M Abu Bakar</td>
     </tr>
     <tr>
