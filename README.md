@@ -147,9 +147,9 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
     <tr>
         <td align="center"><b>Day 09</b></br>11-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/16zSyM2Q88/"></td>
         <td align="center"><a href=""></td>
-        <td align="center"><a href=""></td>
-        <td align="center"><br/><br/></td>
+        <td align="center">Algorithm Design Techniques<br/>Brute Force<br/>Divide and Conquer<br/>Greedy Algorithms<br/>Dynamic Programming (DP)<br/>Backtracking<br/>Branch and Bound<br/>Randomized Algorithms</td>
         <td align="center"><a href=""></td>
     </tr>
     <tr>
