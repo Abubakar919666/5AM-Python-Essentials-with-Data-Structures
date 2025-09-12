@@ -156,7 +156,8 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 10</b></br>12-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1Chw1Ym91p/">Commonly Used Algorithms</td>
         <td align="center"><a href=""></td>
-        <td align="center">Searching Algorithms<br/>Sorting Algorithms<br/>Greedy Algorithms<br/><br/><br/><br/></td>
+        <td align="center">Searching Algorithms<br/>Sorting Algorithms<br/>Greedy Algorithms<br/>Graph Algorithms<br/>
+        Dynamic Progrmming<br/>Divide & Conquer<br/>Hashing & Searching</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
 </tbody>
