@@ -149,20 +149,15 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 09</b></br>11-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/16zSyM2Q88/">Algorithm Design</td>
         <td align="center"><a href=""></td>
-<<<<<<< HEAD
-        <td align="center">ADT<br/>Brute Force<br/>Divide and Conquer<br/>Greedy Algorithms<br/>Dynamic Programming (DP)<br/>Backtracking<br/>Branch and Bound<br/>Randomized Algorithms</td>
-        <td align="center"><a href=""></td>
-=======
         <td align="center">Algorithm Design Techniques<br/>Brute Force<br/>Divide and Conquer<br/>Greedy Algorithms<br/>Dynamic Programming (DP)<br/>Backtracking<br/>Branch and Bound<br/>Randomized Algorithms</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
->>>>>>> 1b26ffc8ea182efcb00a607b612f574156f796ce
     </tr>
     <tr>
         <td align="center"><b>Day 10</b></br>12-Sep-2025</td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1Chw1Ym91p/">Commonly Used Algorithms</td>
         <td align="center"><a href=""></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
 </tbody>
 <table>
