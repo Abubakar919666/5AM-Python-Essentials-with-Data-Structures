@@ -165,7 +165,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 -------------------------------------------------------------------------------------------------------------------------
 
-### Week 02
+### Week 03
 
 <table>
     <tbody>
@@ -182,11 +182,9 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
         <td align="center"><a href="">Sorting Algorithms</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file<br/>
-        <a href="https://leetcode.com/problems/search-insert-position/">Problem 35</a>
-        </td>
-        <td align="center">list<br/>array<br/>search insert<br/></td>
-        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakr</td>
+        <td align="center"><a href=""><br/>
+        <td align="center">list of Sorting Algorithms<br/>Bubble Sort<br/>Insertion Sort<br/>Selection Sort</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
