@@ -181,7 +181,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
     <tr>
         <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/share/v/17JBCiHJ9b/">Search Insert Position</td>
+        <td align="center"><a href="">Sorting Algorithms</td>
         <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file<br/>
         <a href="https://leetcode.com/problems/search-insert-position/">Problem 35</a>
         </td>
