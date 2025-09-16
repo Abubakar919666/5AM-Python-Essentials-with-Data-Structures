@@ -187,20 +187,20 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
-        <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
-        <td align="center"><a href=""></td>
+        <td align="center"><b>Day 12</b></br>16-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/"></td>
         <td align="center"><a href=""><br/></td>
         <td align="center"></td>
         <td align="center"></td>
     </tr>
-    <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
+        <td align="center"><b>Day 13</b></br>17-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""><br/></td>
         <td align="center"></td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
+        <td align="center"><b>Day 14</b></br>18-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""><br/></td>
         <td align="center"></td>
