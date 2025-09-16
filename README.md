@@ -181,17 +181,17 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
     <tr>
         <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
-        <td align="center"><a href="">Sorting Algorithms</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1CVFVRwpGM/">Sorting Algorithms</td>
         <td align="center"><a href=""><br/>
         <td align="center">list of Sorting Algorithms<br/>Bubble Sort<br/>Insertion Sort<br/>Selection Sort</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/watch?v=1230215062206671">Algorithm Analysis</td>
-        <td align="center"><a href="https://leetcode.com/problems/binary-search/description/">Problem 704<br/>Binary Search</td>
-        <td align="center">Algorithm<br/>Time Complexity<br/>Big-O Notation<br/>Types of Complexitties<br/>Space Complexity<br/>Conclusion</td>
-        <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
+        <td align="center"><a href=""></td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Day 09</b></br>11-Sep-2025</td>
