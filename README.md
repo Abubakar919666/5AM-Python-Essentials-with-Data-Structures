@@ -190,7 +190,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 12</b></br>16-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/"></td>
         <td align="center"><a href=""><br/></td>
-        <td align="center">Radix sort ,Bucket sort ,Heap Sort ,Tree sort ,Tim sort </td>
+        <td align="center">Radix sort<br/>Bucket sort<br/>Heap Sort<br/>Tree sort<br/>Tim sort </td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
     </tr>
         <td align="center"><b>Day 13</b></br>17-Sep-2025</td>
