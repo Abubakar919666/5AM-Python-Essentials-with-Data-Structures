@@ -208,9 +208,9 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
 </tbody>
 <table>
-
 -------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------
 ### 🙌 Contributors
 
 The Moderators and trainers of our this program maintain this repository.  
