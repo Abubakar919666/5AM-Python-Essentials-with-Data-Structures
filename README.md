@@ -225,11 +225,11 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
-        <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
-        <td align="center"><a href="https://www.facebook.com/share/v/1CVFVRwpGM/">Sorting Algorithms</td>
+        <td align="center"><b>Day 15</b></br>22-Sep-2025</td>
+        <td align="center"><a href=""></td>
         <td align="center"><a href=""><br/></td>
-        <td align="center">list of Sorting Algorithms<br/>Bubble S<br/>ortInsertion Sort<br/>Selection Sort<br/>Merge Sort<br/>Quick Sort<br/>Counting Sort</td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 12</b></br>16-Sep-2025</td>
