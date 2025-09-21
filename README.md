@@ -222,10 +222,14 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Trainer Name</b></td>
      </tr>  
     <tr>
-    <td align="center" colspan="5">No Class</td>   
+        <td align="center"><b>Day 15</b></br>22-Sep-2025</td>
+        <td align="center"><a href=""></td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center"><a href=""></td>   
     </tr>
     <tr>
-        <td align="center"><b>Day 15</b></br>22-Sep-2025</td>
+        <td align="center"><b>Day 16</b></br>23-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""><br/></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
