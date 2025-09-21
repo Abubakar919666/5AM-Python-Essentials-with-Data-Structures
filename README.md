@@ -210,6 +210,49 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 <table>
 -------------------------------------------------------------------------------------------------------------------------
 
+### Week 04
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+        <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+    <tr>
+    <td align="center" colspan="5">No Class</td>   
+    </tr>
+    <tr>
+        <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1CVFVRwpGM/">Sorting Algorithms</td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center">list of Sorting Algorithms<br/>Bubble S<br/>ortInsertion Sort<br/>Selection Sort<br/>Merge Sort<br/>Quick Sort<br/>Counting Sort</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 12</b></br>16-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/">Radix sort</td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center">Radix sort<br/>Bucket sort<br/>Heap Sort<br/>Tree sort<br/>Tim sort </td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+    </tr>
+        <td align="center"><b>Day 13</b></br>17-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1JnF5YRGPb/">Stacks</td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center"> Stacks<br/>leetcode problem </td>
+        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakr</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Day 14</b></br>18-Sep-2025</td>
+        <td align="center"><a href="https://www.facebook.com/share/v/16PeKhgc7g/">Recursions</td>
+        <td align="center"><a href=""><br/></td>
+        <td align="center">Recursions<br/>Types of Recursions<br/>Linear Recursion<br/>Non-linear Recursion<br/> leetcode problem no 509</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+    </tr>
+</tbody>
+<table>
 -------------------------------------------------------------------------------------------------------------------------
 ### 🙌 Contributors
 
