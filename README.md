@@ -226,7 +226,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.facebook.com/share/v/1CYwQBH9PS/">String Algorithms</td>
         <td align="center"><a href=""><br/></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>   
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
     </tr>
     <tr>
         <td align="center"><b>Day 16</b></br>23-Sep-2025</td>
