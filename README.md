@@ -225,7 +225,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 15</b></br>22-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CYwQBH9PS/">String Algorithms</td>
         <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center">Reverse String<br/>Palindrome<br/>Valid Palindrome<br/><br/><br/><br/></td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
     </tr>
     <tr>
