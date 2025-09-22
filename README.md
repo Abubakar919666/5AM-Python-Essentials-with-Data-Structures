@@ -66,6 +66,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 <table>
 
 -------------------------------------------------------------------------------------------------------------------------
+
 ### Week 01
 <table>
     <tbody>
@@ -115,6 +116,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 <table>
 
 -------------------------------------------------------------------------------------------------------------------------
+
 ### Week 02
 
 <table>
