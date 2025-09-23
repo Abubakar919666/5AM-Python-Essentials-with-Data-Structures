@@ -132,7 +132,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
-        <td align="center"><b>Day 07</b></br>09-Sep-2025</td>
+        <td align="center"><b>Day 06</b></br>09-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/17JBCiHJ9b/">Search Insert Position</td>
         <td align="center"><a href="https://colab.research.google.com/drive/1tInxbQb170lZQ4cgQG8crmHTrvj7SLvn?usp=sharing">Practice file<br/>
         <a href="https://leetcode.com/problems/search-insert-position/">Problem 35</a>
@@ -141,21 +141,21 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakar</td>
     </tr>
     <tr>
-        <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
+        <td align="center"><b>Day 07</b></br>10-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/watch?v=1230215062206671">Algorithm Analysis</td>
         <td align="center"><a href="https://leetcode.com/problems/binary-search/description/">Problem 704<br/>Binary Search</td>
         <td align="center">Algorithm<br/>Time Complexity<br/>Big-O Notation<br/>Types of Complexitties<br/>Space Complexity<br/>Conclusion</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
     <tr>
-        <td align="center"><b>Day 09</b></br>11-Sep-2025</td>
+        <td align="center"><b>Day 08</b></br>11-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/16zSyM2Q88/">Algorithm Design</td>
         <td align="center"><a href=""></td>
         <td align="center">Algorithm Design Techniques<br/>Brute Force<br/>Divide and Conquer<br/>Greedy Algorithms<br/>Dynamic Programming (DP)<br/>Backtracking<br/>Branch and Bound<br/>Randomized Algorithms</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
     <tr>
-        <td align="center"><b>Day 10</b></br>12-Sep-2025</td>
+        <td align="center"><b>Day 09</b></br>12-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1Chw1Ym91p/">Commonly Used Algorithms</td>
         <td align="center"><a href=""></td>
         <td align="center">Searching Algorithms<br/>Sorting Algorithms<br/>Greedy Algorithms<br/>Graph Algorithms<br/>
@@ -182,14 +182,14 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
-        <td align="center"><b>Day 11</b></br>15-Sep-2025</td>
+        <td align="center"><b>Day 10</b></br>15-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CVFVRwpGM/">Sorting Algorithms</td>
         <td align="center"><a href=""><br/></td>
         <td align="center">list of Sorting Algorithms<br/>Bubble S<br/>ortInsertion Sort<br/>Selection Sort<br/>Merge Sort<br/>Quick Sort<br/>Counting Sort</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
-        <td align="center"><b>Day 12</b></br>16-Sep-2025</td>
+        <td align="center"><b>Day 11</b></br>16-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/">Radix sort</td>
         <td align="center"><a href=""><br/></td>
         <td align="center">Radix sort<br/>Bucket sort<br/>Heap Sort<br/>Tree sort<br/>Tim sort </td>
