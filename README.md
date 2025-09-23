@@ -235,8 +235,6 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 16</b></br>23-Sep-2025</td>
         <td align="center"><a href=""></td>
         <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
     </tr>
     <tr>
         <td align="center"><b>Day 17</b></br>24-Sep-2025</td>
