@@ -129,7 +129,6 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Trainer Name</b></td>
      </tr>  
     <tr>
-    <td align="center">09-Sep-2025</td>
     <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
@@ -139,7 +138,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <a href="https://leetcode.com/problems/search-insert-position/">Problem 35</a>
         </td>
         <td align="center">list<br/>array<br/>search insert<br/></td>
-        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakr</td>
+        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakar</td>
     </tr>
     <tr>
         <td align="center"><b>Day 08</b></br>10-Sep-2025</td>
