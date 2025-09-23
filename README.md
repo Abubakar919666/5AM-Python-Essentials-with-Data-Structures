@@ -129,6 +129,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Trainer Name</b></td>
      </tr>  
     <tr>
+    <td align="center"><b>09-Sep-2025</td>
     <td align="center" colspan="5">No Class</td>   
     </tr>
     <tr>
