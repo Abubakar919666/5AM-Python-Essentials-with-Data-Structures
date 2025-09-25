@@ -193,7 +193,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/">Radix sort</td>
         <td align="center"><a href=""><br/></td>
         <td align="center">Radix sort<br/>Bucket sort<br/>Heap Sort<br/>Tree sort<br/>Tim sort </td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
         <td align="center"><b>Day 12</b></br>17-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1JnF5YRGPb/">Stacks</td>
@@ -206,7 +206,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.facebook.com/share/v/16PeKhgc7g/">Recursions</td>
         <td align="center"><a href=""><br/></td>
         <td align="center">Recursions<br/>Types of Recursions<br/>Linear Recursion<br/>Non-linear Recursion<br/> leetcode problem no 509</td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
 </tbody>
 <table>
@@ -229,7 +229,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.facebook.com/share/v/1CYwQBH9PS/">String Algorithms</td>
         <td align="center"><a href=""><br/></td>
         <td align="center">Reverse String<br/>Palindrome<br/>Valid Palindrome<br/><br/><br/><br/></td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center" colspan="5">No Class</td>   
@@ -239,13 +239,13 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><a href="https://www.facebook.com/share/v/19ayaJSn5z/">HashMap</td>
         <td align="center"><a href=""><br/></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
         <td align="center"><b>Day 16</b></br>25-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1ao3Ej34xQ/">Queue</td>
         <td align="center"><a href=""><br/></td>
         <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td></td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 17</b></br>26-Sep-2025</td>
