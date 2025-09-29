@@ -243,8 +243,10 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
         <td align="center"><b>Day 16</b></br>25-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1ao3Ej34xQ/">Queue</td>
-        <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1q87G0I7VFY3_CP3PLqsrnq2CwXHOl5fe?usp=sharing">Practice file<br/>
+        <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Problem 232
+        </td>
+        <td align="center">Queue operations<br/>Types of Queue<br/>Queue Implementation</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
     <tr>
