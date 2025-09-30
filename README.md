@@ -184,14 +184,16 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 10</b></br>15-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CVFVRwpGM/">Sorting Algorithms</td>
-        <td align="center"><a href=""><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1cIzzQbCXGdFPiVfYwqkcHixd3Q9X0Lq2?usp=sharing">Pracitce File<br/>
+        </td>
         <td align="center">list of Sorting Algorithms<br/>Bubble S<br/>ortInsertion Sort<br/>Selection Sort<br/>Merge Sort<br/>Quick Sort<br/>Counting Sort</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
         <td align="center"><b>Day 11</b></br>16-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CnTDazmTS/">Radix sort</td>
-        <td align="center"><a href=""><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1cIzzQbCXGdFPiVfYwqkcHixd3Q9X0Lq2?usp=sharing">Practice file<br/>
+        </td>
         <td align="center">Radix sort<br/>Bucket sort<br/>Heap Sort<br/>Tree sort<br/>Tim sort </td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
