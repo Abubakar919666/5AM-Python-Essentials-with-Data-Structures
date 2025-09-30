@@ -237,8 +237,10 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 15</b></br>24-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/19ayaJSn5z/">HashMap</td>
-        <td align="center"><a href=""><br/></td>
-        <td align="center">Hasmap<br/><br/><br/><br/><br/><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/14bu6cJs08lvdUvSyH7ZyJUOSxAcf9F0j?usp=sharing#scrollTo=F1qHD5kr2wV1">Practice file<br/>
+        <a href="https://leetcode.com/problems/two-sum/">Problem 01
+        </td>
+        <td align="center">Hasmap<br/>HashMap Concepts<br/>HashMap Types<br/>Open Addressing<br/>Double Hashing<br/>Load Factor<br/>Rehashingbr<br/>Cuckoo Hashing</td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
         <td align="center"><b>Day 16</b></br>25-Sep-2025</td>
