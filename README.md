@@ -227,8 +227,10 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 14</b></br>22-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1CYwQBH9PS/">String Algorithms</td>
-        <td align="center"><a href=""><br/></td>
-        <td align="center">Reverse String<br/>Palindrome<br/>Valid Palindrome<br/><br/><br/><br/></td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1-bdAogVl56F87H2CkvkZ5iZsUpn_gGgT?usp=sharing#scrollTo=4v-OQxa6pE9s">Practice file<br/>
+        <a href="https://leetcode.com/problems/reverse-string/">Problem 344
+        </td>
+        <td align="center">Reverse String<br/>Palindrome<br/>Valid Palindrome<br/>Substring Search<br/><br/><br/></td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
     <tr>
