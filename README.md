@@ -197,14 +197,16 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     </tr>
         <td align="center"><b>Day 12</b></br>17-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1JnF5YRGPb/">Stacks</td>
-        <td align="center"><a href=""><br/></td>
-        <td align="center"> Stacks<br/>leetcode problem </td>
-        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakr</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1PygbEdCND3JV6pZq2IZhAufYfwaEd458?usp=sharing#scrollTo=X8AfORBFSptW">Practice file<br/>
+        <a href="https://leetcode.com/problems/fibonacci-number/">Problem 509
+        </td>
+        <td align="center"> Stacks<br/>leetcode problem<br/>Fibonacci numbers</td>
+        <td align="center"><a href="https://www.linkedin.com/in/muhammadabu/"> M Abubakar</td>
     </tr>
     <tr>
         <td align="center"><b>Day 13</b></br>18-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/16PeKhgc7g/">Recursions</td>
-        <td align="center"><a href="https://colab.research.google.com/drive/1PygbEdCND3JV6pZq2IZhAufYfwaEd458?usp=sharing#scrollTo=X8AfORBFSptW"><br/>
+        <td align="center"><a href="https://colab.research.google.com/drive/1PygbEdCND3JV6pZq2IZhAufYfwaEd458?usp=sharing#scrollTo=X8AfORBFSptW">Practice file<br/>
         <a href="https://leetcode.com/problems/power-of-two/">Problem 231
         </td>
         <td align="center">Recursions<br/>Types of Recursions<br/>Linear Recursion<br/>Non-linear Recursion<br/> leetcode problem no 509</td>
