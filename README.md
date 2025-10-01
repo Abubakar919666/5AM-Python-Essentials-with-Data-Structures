@@ -150,7 +150,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
     <tr>
         <td align="center"><b>Day 08</b></br>11-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/16zSyM2Q88/">Algorithm Design</td>
-        <td align="center"><a href="">Practice file</td>
+        <td align="center"><a href=" ">Practice file</td>
         <td align="center">Algorithm Design Techniques<br/>Brute Force<br/>Divide and Conquer<br/>Greedy Algorithms<br/>Dynamic Programming (DP)<br/>Backtracking<br/>Branch and Bound<br/>Randomized Algorithms</td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
